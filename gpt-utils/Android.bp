@@ -25,7 +25,6 @@ cc_library {
     ],
     cflags: [
         "-Wall",
-        "-Werror",
     ],
     srcs: [
         "gpt-utils.cpp",
