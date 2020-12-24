@@ -76,6 +76,7 @@ PRODUCT_PACKAGES += \
     libnos_datagram:64 \
     libnos_datagram_citadel:64 \
     libnos_transport:64 \
+    libprotobuf-cpp-full-vendorcompat \
     libqcomvoiceprocessingdescriptors \
     libqti_vndfwk_detect.vendor \
     librmnetctl \
