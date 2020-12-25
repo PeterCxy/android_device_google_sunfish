@@ -82,7 +82,7 @@ PRODUCT_PACKAGES += \
     librmnetctl \
     libstagefright_bufferpool@2.0.1.vendor \
     libteeui_hal_support.vendor \
-    libtinycompress.vendor \
+    libtinycompress \
     libtinyxml \
     libvndfwk_detect_jni.qti.vendor \
     libwifi-hal-qcom \
