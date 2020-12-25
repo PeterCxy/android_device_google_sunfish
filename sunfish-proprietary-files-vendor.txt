@@ -602,7 +602,6 @@ vendor/lib/libaudioalsa.so
 vendor/lib/libaudioconfigstore.so
 vendor/lib/libaudioparsers.so
 vendor/lib/libautohal.so
-vendor/lib/libavservices_minijail_vendor.so
 vendor/lib/libbase64.so
 vendor/lib/libbatterylistener.so
 vendor/lib/libbluetooth_audio_session_qti.so

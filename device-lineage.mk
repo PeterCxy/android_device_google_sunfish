@@ -62,6 +62,7 @@ PRODUCT_PACKAGES += \
     chre \
     ese_spi_st \
     hardware.google.light@1.0.vendor:32 \
+    libavservices_minijail_vendor:32 \
     libcodec2_hidl@1.0.vendor:32 \
     libcodec2_vndk.vendor \
     libcppbor.vendor \
