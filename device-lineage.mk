@@ -45,14 +45,6 @@ PRODUCT_PACKAGES += \
     com.qualcomm.qti.bluetooth_audio@1.0 \
     qti-telephony-utils \
     vendor.qti.hardware.cryptfshw@1.0 \
-    vendor.display.config@1.0 \
-    vendor.display.config@1.1 \
-    vendor.display.config@1.2 \
-    vendor.display.config@1.3 \
-    vendor.display.config@1.4 \
-    vendor.display.config@1.5 \
-    vendor.display.config@1.6 \
-    vendor.display.config@1.7 \
     vendor.display.config@1.8 \
 
 # Build necessary packages for vendor
