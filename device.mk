@@ -758,6 +758,10 @@ endif
 PRODUCT_PROPERTY_OVERRIDES += \
     persist.vendor.sys.modem.diag.mdlog_br_num=5
 
+# Preopt SystemUI
+PRODUCT_DEXPREOPT_SPEED_APPS += \
+    SystemUIGoogle
+
 # Enable stats logging in LMKD
 TARGET_LMKD_STATS_LOG := true
 PRODUCT_PRODUCT_PROPERTIES += \
